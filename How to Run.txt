@@ -1,0 +1,31 @@
+
+
+
+
+NOTE:
+
+1.Un install all other java version related exe files
+
+2.Un install all tomcat version related exe files
+
+
+
+INSTALL THE FOLLOWING
+
+
+Pls Install the following
+
+1. Install JDK 1.6   and Class path,Java Path (Refer Video)
+
+2. Install Tomcat 6.0
+
+3. Install My SQL and install navaicat,configure database(Refer Video)
+
+
+How to Run the Project
+
+1. Keep your project folder under  tomcat 6.0/Web apps (Refer Video)
+
+2. Run the tomcat 6.0 server (Refer Video)
+
+3. Open browser and type   http://localhot:8080  and run the project... (Refer Video)
